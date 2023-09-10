@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana, monospace, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: justify;
+    min-height: 800px;
+}
+.ana {
+    width: 320px;
+    height: 140px;
+    padding: 20px;
+    background-color: skyblue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -160px;
+    margin-top: -70px;
+}
+
